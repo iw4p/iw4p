@@ -12,8 +12,8 @@ interests:
   
 How to reach me: 
 
-  - 📫 How to reach me: [Linkedin](https://linkedin.com/in/nimk).
-
+  - 📫 You can reach me: [Linkedin](https://linkedin.com/in/nimk).
+  
 About me?
 
   - 💬 Ask me about Tweaking, R.E in iOS, Swift, automation with python and more.
