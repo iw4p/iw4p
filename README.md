@@ -1,13 +1,13 @@
 ### Hey 👋 
 ----
 
-I'm Nima, working as a software engineer. I love researching and working as a R&D. Looking for a better opportunity to learn more and bloom my expertise.
+I'm Nima, working as a software engineer. I love researching; working as a R&D. Looking for good opportunities to learn more.
 
 interests:
 
-  - Web Development, Flask, Django ...
-  - Rust, Golang
-  - Docker
+  - AR - VR
+  - AI - ML - DL - RL
+  - Web Development
   - IoT
   
 How to reach me: 
