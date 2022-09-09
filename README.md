@@ -1,7 +1,7 @@
 ### Hey 👋 
 ----
 
-I'm Nima, working as a software engineer. I love researching; so Noo I'm working as a R&D. Looking for good opportunities to learn more.
+I'm Nima, working as a software engineer and R&D. I love researching; Always looking for good opportunities to learn more.
 
 interests:
 
