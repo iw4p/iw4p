@@ -36,7 +36,7 @@ IoT experiences:
 
 How to reach me: 
 
-  - 📫 You can reach me: [Linkedin](https://linkedin.com/in/nimk).
+  - 📫 You can reach me: [Linkedin](https://linkedin.com/in/nimk)
 
 About me?
 
@@ -44,11 +44,11 @@ About me?
 
 More links:
 
-[Medium Profile](https://medium.com/@nimk)
+  - [Medium Profile](https://medium.com/@nimk)
 
-[Dev.to Profile](https://dev.to/iw4p)
+  - [Dev.to Profile](https://dev.to/iw4p)
 
-[Virgool Profile (Persian)](https://virgool.io/@Nimak)
+  - [Virgool Profile (Persian)](https://virgool.io/@Nimak)
 
 
 ![Nima's github stats](https://github-readme-stats.vercel.app/api?username=iw4p&show_icons=true&theme=buefy&show_icons=true&count_private=true)
