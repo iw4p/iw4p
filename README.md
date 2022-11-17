@@ -1,7 +1,10 @@
-### Hey 👋 
+### Nima Akbarzadeh
 ----
 
-I'm Nima, working as a software engineer and R&D. I love researching; Always looking for good opportunities to learn more.
+Working as a software engineer and R&D. I love researching; Always looking for good opportunities to learn more.
+
+----
+### My open source projects
 
 AR - VR Projects:
   - [Virtual 3D Model Conference Room](https://github.com/iw4p/Virtual-3D-Model-Conference-Room)
@@ -34,21 +37,24 @@ Web Development:
 IoT experiences:
   - [Fun Arduino projects](https://github.com/iw4p/Arduino)
 
-How to reach me: 
+----
 
-  - 📫 You can reach me: [Linkedin](https://linkedin.com/in/nimk)
+# My contents
+[![](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nimk)
+[![](https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=dev.to)](https://dev.to/iw4p)
+[![](https://img.shields.io/badge/-Virgool-black?style=for-the-badge&logo=Virgool)](https://virgool.io/@Nimak)
 
-About me?
+---
 
-  - 💬 Ask me about Tweaking, Reverse Engineering in iOS, automation with Python and more.
+# Technologies I love
+[![](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![](https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=apple)](https://swift.org/)
 
-More links:
+---
 
-  - [Medium Profile](https://medium.com/@nimk)
+# Contact Me
+[![](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=protonmail)](mailto:iw4p@protonmail.com)
+[![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nimk)
 
-  - [Dev.to Profile](https://dev.to/iw4p)
-
-  - [Virgool Profile (Persian)](https://virgool.io/@Nimak)
-
-
-![Nima's github stats](https://github-readme-stats.vercel.app/api?username=iw4p&show_icons=true&theme=buefy&show_icons=true&count_private=true)
+![Nima's github stats](https://github-readme-stats.vercel.app/api?username=iw4p&show_icons=true&theme=chartreuse-dark&show_icons=true&count_private=true)
