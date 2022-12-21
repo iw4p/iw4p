@@ -35,8 +35,9 @@ Web Development:
   - [Virtual 3D Model Conference Room](https://github.com/iw4p/Virtual-3D-Model-Conference-Room)
 
 
-IoT experiences:
+IoT - Hardware experiences:
   - [Fun Arduino projects](https://github.com/iw4p/Arduino)
+  - [Chip8 Emulator](https://github.com/iw4p/chip8-emulator)
 
 ----
 
