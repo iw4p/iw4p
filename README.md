@@ -58,5 +58,7 @@ IoT - Hardware experiences:
 # Contact Me
 [![](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=protonmail)](mailto:iw4p@protonmail.com)
 [![](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nimk)
+
 [![Nima Akbarzadeh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4827642&layout=compact&theme=dark)](https://stackoverflow.com/users/4827642/nima-akbarzadeh)
+
 ![Nima's github stats](https://github-readme-stats.vercel.app/api?username=iw4p&show_icons=true&theme=chartreuse-dark&show_icons=true&count_private=true)
