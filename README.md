@@ -21,7 +21,7 @@ iOS reverse engineering (Tweaks and Jailbreaking) Projects:
   - [MGSpoof](https://github.com/iw4p/MGSpoof)
   - [RadioJavan Password retriever vulnerability](https://github.com/iw4p/RadioJavan-Password-retriever)
   - [F!@#$ Sandbox - Get list of installed apps and their info on iOS no JB](https://github.com/iw4p/Fuck-SandBox)
-
+  - Epub DRM Breaking [Taaghche](https://taaghche.com/), [Fidibo](https://fidibo.com/) and [Ketabrah](https://www.ketabrah.ir/) - [Details](https://www.linkedin.com/posts/nimk_reverseengineering-drm-activity-7048319477561614337-R4tR)
 
 Python libraries and scripts:
   - [Proxy Scraper](https://github.com/iw4p/proxy-scraper)
