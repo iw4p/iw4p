@@ -4,15 +4,20 @@
 Working as a software engineer and R&D. I love researching; Always looking for good opportunities to learn more.
 
 ----
-### My open source projects
+### My open-source projects
 
-AR - VR Projects:
+Reinforcement Learning (RL):
+  - [GYM (Gymnasium) - PettingZoo | Reinforcement Learning Projects](https://github.com/iw4p/Reinforcement-Learning)
+  - [Python Implementation of Reinforcement Learning: An Introduction book by Sutton for Iranian - Persian/Farsi Speakers](https://github.com/iw4p/reinforcement-learning-an-introduction)
+
+
+Augmented Reality (AR) - Virtual Reality (VR) Projects:
   - [Virtual 3D Model Conference Room](https://github.com/iw4p/Virtual-3D-Model-Conference-Room)
   - [3D Model Viewer](https://github.com/iw4p/3D-Model-Viewer)
 
 
 ML and DL Projects:
-  - [DNN AMR reley differential curve](https://github.com/iw4p/dnn-amr-reley-differential-curve)
+  - [DNN AMR relay differential curve](https://github.com/iw4p/dnn-amr-reley-differential-curve)
   - [DNN distance line protection zone](https://github.com/iw4p/dnn-distance-line-protection-zone)
 
 
@@ -20,7 +25,7 @@ iOS reverse engineering (Tweaks and Jailbreaking) Projects:
   - [WhatsApp vulnerability Tweak](https://github.com/iw4p/WhatsApp-Tweak)
   - [MGSpoof](https://github.com/iw4p/MGSpoof)
   - [RadioJavan Password retriever vulnerability](https://github.com/iw4p/RadioJavan-Password-retriever)
-  - [F!@#$ Sandbox - Get list of installed apps and their info on iOS no JB](https://github.com/iw4p/Fuck-SandBox)
+  - [F!@#$ Sandbox - Get the list of installed apps and their info on iOS no JB](https://github.com/iw4p/Fuck-SandBox)
   - Epub DRM Breaking [Taaghche](https://taaghche.com/), [Fidibo](https://fidibo.com/) and [Ketabrah](https://www.ketabrah.ir/) - [Details](https://www.linkedin.com/posts/nimk_reverseengineering-drm-activity-7048319477561614337-R4tR)
 
 Python libraries and scripts:
