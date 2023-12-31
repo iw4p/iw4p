@@ -32,6 +32,7 @@ Python libraries and scripts:
   - [Proxy Scraper](https://github.com/iw4p/proxy-scraper)
   - [Telegram Cloud](https://github.com/iw4p/telegram-cloud)
   - [TorrentP](https://github.com/iw4p/torrentp)
+  - [Parsing ChatGPT JSON stream response — Partial and incomplete JSON parser python library for OpenAI](https://github.com/iw4p/partialjson)
   - [Unofficial API for Fragment.com (TON - Telegram)](https://github.com/iw4p/Ton-Fragment)
 
 
