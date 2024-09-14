@@ -54,9 +54,13 @@ IoT - Hardware experiences:
 
 ---
 
-# Technologies I love
+# Experienced with
 [![](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-go-black?style=for-the-badge&logo=go)](https://go.dev/)
+[![](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker)](https://docker.com/)
+[![](https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux)](https://linux.org/)
+[![](https://img.shields.io/badge/-shell-black?style=for-the-badge&logo=shell)](https://linux.org/)
 [![](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=apple)](https://swift.org/)
 
 ---
