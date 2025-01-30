@@ -3,11 +3,9 @@
 
 Working as a software engineer and R&D. I love researching; Always looking for good opportunities to learn more.
 
-<div align="center">
 [![image](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/jailbroken)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iw4p@protonmail.com)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimk/)
-</div>
+[![image](https://img.shields.io/badge/Protonmail-5143cc?style=for-the-badge&logo=Protonmail&logoColor=white)](mailto:iw4p@protonmail.com)
+[![image](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimk/)
 
 
 ----
