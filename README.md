@@ -18,6 +18,8 @@ Working as a software engineer and R&D. I love researching; Always looking for g
 ----
 ### My open-source projects
 
+Python packages on [PyPI](https://pypi.org/user/Nimak/)
+
 Reinforcement Learning (RL):
   - [GYM (Gymnasium) - PettingZoo | Reinforcement Learning Projects](https://github.com/iw4p/Reinforcement-Learning)
   - [Python Implementation of Reinforcement Learning: An Introduction book by Sutton for Iranian - Persian/Farsi Speakers](https://github.com/iw4p/reinforcement-learning-an-introduction)
