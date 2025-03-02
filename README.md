@@ -9,6 +9,13 @@ Working as a software engineer and R&D. I love researching; Always looking for g
 
 
 ----
+### Contributions
+- [Meta Llama - PurpleLlama](https://github.com/meta-llama/PurpleLlama/pull/32)
+- [Binance - BNB Smart Chain](https://github.com/bnb-chain/bsc-docker/pull/13)
+- [Microsoft - MarkItDown](https://github.com/microsoft/markitdown/pull/1035)
+- [TonUtils-GO](https://github.com/xssnick/tonutils-go/pull/297)
+
+----
 ### My open-source projects
 
 Reinforcement Learning (RL):
