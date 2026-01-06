@@ -87,7 +87,7 @@ ML and DL Projects:
 ---
 
 # My contents
-[![](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@nimk)
+[![](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@iw4p)
 [![](https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=dev.to)](https://dev.to/iw4p)
 [![](https://img.shields.io/badge/-Virgool-black?style=for-the-badge&logo=Virgool)](https://virgool.io/@iw4p)
 
