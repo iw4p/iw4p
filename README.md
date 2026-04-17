@@ -1,7 +1,15 @@
-### Nima Akbarzadeh
-----
+# Hi, I'm Nima 👋
 
-Working as a software engineer and R&D. I love researching; Always looking for good opportunities to learn more.
+Backend Engineer
+
+I build scalable backend systems and integrations with a focus on:
+- Event-driven architectures
+- High-throughput processing (queues, retries, idempotency)
+
+## Tech Stack
+- TypeScript (NestJS), Go, Python
+- PostgreSQL, Redis, BullMQ
+- Docker
 
 ----
 #### Contact:
@@ -13,8 +21,6 @@ Working as a software engineer and R&D. I love researching; Always looking for g
 ----
 ### My open-source projects
 
-Python packages on [PyPI](https://pypi.org/user/Nimak/)
-
 Go libraries and projects:
   - [Fault tolerance and resilience library for Go](https://github.com/iw4p/gosentry)
   - [TON Cores (cell - boc - etc.) to talk with Liteservers](https://github.com/iw4p/GoTon)
@@ -22,7 +28,7 @@ Go libraries and projects:
   - [URL Shortener System Design](https://github.com/iw4p/url-shortener)
 
 
-Python libraries and scripts:
+Python packages on [PyPI](https://pypi.org/user/Nimak/):
   - [Website and Youtube to Markdown](https://github.com/iw4p/url-to-markdown)
   - [Proxy Scraper](https://github.com/iw4p/proxy-scraper)
   - [Telegram Cloud](https://github.com/iw4p/telegram-cloud)
@@ -35,20 +41,6 @@ Web Development:
   - [Vebko Chat Service](https://github.com/iw4p/Vebko-Chat-Service)
   - [Virtual 3D Model Conference Room](https://github.com/iw4p/Virtual-3D-Model-Conference-Room)
   - [URL shortener in Golang - System Design](https://github.com/iw4p/url-shortener)
-  - [Any website and URL to Markdown](https://github.com/iw4p/url-to-markdown)
-
-
-IoT - Hardware experiences:
-  - [Fun Arduino projects](https://github.com/iw4p/Arduino)
-  - [Chip8 Emulator](https://github.com/iw4p/chip8-emulator)
-
-
-iOS reverse engineering (Tweaks and Jailbreaking) Projects:
-  - [WhatsApp vulnerability Tweak](https://github.com/iw4p/WhatsApp-Tweak)
-  - [MGSpoof](https://github.com/iw4p/MGSpoof)
-  - [RadioJavan Password retriever vulnerability](https://github.com/iw4p/RadioJavan-Password-retriever)
-  - [F!@#$ Sandbox - Get the list of installed apps and their info on iOS no JB](https://github.com/iw4p/Fuck-SandBox)
-  - Epub DRM Breaking [Taaghche](https://taaghche.com/), [Fidibo](https://fidibo.com/) and [Ketabrah](https://www.ketabrah.ir/) - [Details](https://www.linkedin.com/posts/nimk_reverseengineering-drm-activity-7048319477561614337-R4tR)
 
 
 Reinforcement Learning (RL):
@@ -60,10 +52,6 @@ Augmented Reality (AR) - Virtual Reality (VR) Projects:
   - [Virtual 3D Model Conference Room](https://github.com/iw4p/Virtual-3D-Model-Conference-Room)
   - [3D Model Viewer](https://github.com/iw4p/3D-Model-Viewer)
 
-
-ML and DL Projects:
-  - [DNN AMR relay differential curve](https://github.com/iw4p/dnn-amr-reley-differential-curve)
-  - [DNN distance line protection zone](https://github.com/iw4p/dnn-distance-line-protection-zone)
 
 ----
 ### Contributions
